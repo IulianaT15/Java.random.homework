@@ -1,1 +1,1 @@
-# Java.random.homework
+# Java.random.scanner.homework
